@@ -1,2 +1,4 @@
 Changing this file to test git
 Changing a second time to test git
+Changing the file a third time to do a second commit.
+
